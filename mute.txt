@@ -4,7 +4,7 @@
     "badword2",
     "inappropriate",
     "custom_word1",
-	"傻逼",
+    "傻逼",
     "custom_word2"
   ]
 }
