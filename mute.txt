@@ -1,10 +1,9 @@
 {
+  "lastUpdateDate": "2023/7/31 20:00:00",
   "words": [
-    "badword1",
-    "badword2",
-    "inappropriate",
-    "custom_word1",
-    "傻逼",
-    "custom_word2"
+    "fuck",
+    "fucku",
+    "奶頭",
+    "狗杂种"
   ]
 }
